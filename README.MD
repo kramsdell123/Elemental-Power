@@ -1,0 +1,1 @@
+This is a mod I'm making named "Elemental Power". I haven't planned too much for it so I don't have a lot to put in the README.
