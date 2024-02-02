@@ -31,7 +31,7 @@ public class ElementalPower implements ModInitializer {
 
 		CustomPortalBuilder.beginPortal()
 			.frameBlock(ModBlocks.lit_obsidian)
-			.destDimID(new Identifier("minecraft", "the_nether"))
+			.destDimID(new Identifier(MOD_ID, "fire"))
 			.tintColor(0xE83814)
 			.registerPortal();
 	}
