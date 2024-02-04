@@ -17,6 +17,7 @@ public class ModItemGroups {
         .entries((param1, entries) -> {
             entries.add(ModItems.power_crystal);
             entries.add(ModItems.powered_flint_and_steel);
+            entries.add(ModItems.solid_lava);
         })
         .build());
 
